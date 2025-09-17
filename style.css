@@ -1,8 +1,9 @@
 body {
     color: rgb(8, 8, 8)
-    background: pink;
-    margin: 0px
+    background: rgb(183, 16, 105);
+    margin: 0px;
     }
+    
     header{ 
     border-bottom: solid 2px rgb(114, 10, 143);
     padding: 20px;
